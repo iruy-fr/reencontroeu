@@ -3,3 +3,9 @@ PHP_VERSION = "8.2"
 
 [build]
 publish = "public/build"
+command = "composer install && php artisan serve"
+
+[[redirects]]
+from = "/*"
+to = "/index.php"
+status = 200
