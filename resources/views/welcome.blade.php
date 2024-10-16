@@ -75,7 +75,7 @@
 
 <!-- Timer -->
 <div id="timer">00:00:00</div>
-<div id="texto" > Para a Europa </div>
+<div id="texto" > Para a encontrar o meu morzinho 😍😍😍 </div>
 <div> <img src="https://i.gifer.com/6oa.gif" height="50px"></div>
 <script>
     // Definir a data final (fixa)
