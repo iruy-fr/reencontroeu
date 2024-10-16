@@ -1,2 +1,5 @@
 [context.production.environment]
 PHP_VERSION = "8.2"
+
+[build]
+publish = "public/build"
