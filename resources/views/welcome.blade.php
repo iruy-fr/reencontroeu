@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Contador de Saudade 😥</title>
+    <title>Contador do Frio ⛄❄⛄</title>
     <style>
         body {
             font-family: "Nirmala UI", sans-serif;
@@ -79,7 +79,7 @@
 <div> <img src="https://i.gifer.com/6oa.gif" height="50px"></div>
 <script>
     // Definir a data final (fixa)
-    const endDate = new Date("2024-12-21 14:00:00").getTime();
+    const endDate = new Date("2024-12-22 10:50:00").getTime();
 
     // Obter a data atual
     const startDate = new Date("2024-08-27 00:00:00").getTime();
